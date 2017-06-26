@@ -1,4 +1,3 @@
-##################### Capital One Data Challenge ############################
 ########### Question 1:
 ## A.  Programmatically download the "Green" Taxis dataset
 
